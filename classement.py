@@ -4,7 +4,7 @@ Created on Mon Jan 18 18:17:06 2021
 
 @author: LENOVO
 """
-
+#mory
 import pandas as pd
 import openpyxl as opx
 import numpy as np
